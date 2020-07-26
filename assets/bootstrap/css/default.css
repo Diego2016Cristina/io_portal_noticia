@@ -1,0 +1,4 @@
+/*não sublinhado*/
+.not-underlined:hover {
+	text-decoration: none;
+}

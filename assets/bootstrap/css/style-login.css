@@ -1,0 +1,17 @@
+.all-footer {
+  position: relative;  
+  text-align: center;
+  top: 90px;
+  z-index: 2;
+}
+.nav-main {
+  position: relative;
+  display: inline-flex;
+}
+.nav-main, li {
+  /*text-align: right;*/
+}
+.nav-main, li, a {
+  list-style: none;
+  padding: 3px;
+}

@@ -1,0 +1,59 @@
+.perg {z-index: 2}
+
+/*Pagina: minhas tabelas*/
+#arquivo {
+	display: none;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+.foto_cicle {
+	position: relative;
+	width: 280px;
+	height: 250px;
+	background-color: transparent;
+	overflow: hidden;
+}
+#foto {
+	border: 1px solid #999999;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+
+/*Quando não tiver imagem usar essa configuração*/
+.cicle2 {
+	position: relative;
+	width: 40px;
+	height: 40px;
+	font-size: 1.0em;
+	background-color: #006699;
+}
+.cicle {
+	position: relative;
+	top: 10px;
+	width: 80px;
+	height: 80px;
+	text-align: center;
+	color: #fff;
+	font-size: 3.4em;
+	background-color: #006699;
+}
+.cicle3 {
+	position: relative;
+	top: 0px;
+	width: 90%;
+	height: 100%;
+	color: #fff;
+	font-size: 1.8em;
+	background-color: #006699;
+}
+
+.image {
+	position: relative;
+	background-color: transparent;
+	width: 40px;
+	height: 40px;
+}

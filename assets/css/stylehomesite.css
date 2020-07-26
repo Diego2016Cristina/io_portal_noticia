@@ -1,0 +1,14 @@
+.corpo-principal {
+    position: relative; margin-top: 38px;
+}
+@media (max-width: 768px) {
+    .corpo-principal {
+        position: relative; margin-top: -10px !important;
+    }
+}
+
+.footer {
+    margin-bottom: 10px;
+    border-top: 1px solid #708090;
+    padding: 50px;
+}

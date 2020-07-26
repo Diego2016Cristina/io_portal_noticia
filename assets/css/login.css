@@ -1,0 +1,20 @@
+body {
+  background-color: #cccccc
+}
+.login {
+  margin-top: 60px;
+}
+.login label {
+  font-size: 16px;
+  color: #880e4f;
+}
+.login input {
+  font-size: 22px !important;
+  color: #333;
+}
+.login button:hover {
+  padding: 0px 60px;
+}
+#text-0001 {
+  color: #ccc;
+}
